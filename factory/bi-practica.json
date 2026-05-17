@@ -1,0 +1,15 @@
+{
+	"name": "bi-practica",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9407613f-e582-42db-88ce-991fa4ebdf0d",
+		"tenantId": "a02c480b-bf7d-415a-9f64-82ce75bca5a7"
+	}
+}
